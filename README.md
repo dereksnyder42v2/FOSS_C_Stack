@@ -1,4 +1,4 @@
-# c_stack
+# FOSS_C_Stack
 Implementation of a stack data structure in C/C++ (it should compile with minimal effort in both) 
      
 Details on the "Arduino" folder...
